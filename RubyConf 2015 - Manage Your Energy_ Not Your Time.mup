@@ -1,0 +1,96 @@
+{
+  "title": "RubyConf 2015 - Manage Your Energy, Not Your Time",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "by Joe Mastey",
+      "id": 2
+    },
+    "11": {
+      "title": "URL https://www.youtube.com/watch?v=505ybcH0f6s&list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp&index=59",
+      "id": 3
+    },
+    "21": {
+      "title": "Content",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Energy matters - not time",
+          "id": 6
+        },
+        "2": {
+          "title": "1. Get Energy",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Get Sleep",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "Quality + Quantity",
+                  "id": 19
+                },
+                "2": {
+                  "title": "Save your melatonin",
+                  "id": 20
+                }
+              }
+            },
+            "2": {
+              "title": "Execrcise",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "10 to 40 minutes",
+                  "id": 22
+                }
+              }
+            },
+            "3": {
+              "title": "Adequate Nourishment",
+              "id": 23
+            },
+            "4": {
+              "title": "Moderate Stress (Flow)",
+              "id": 24
+            }
+          }
+        },
+        "3": {
+          "title": "2. Spend it wisely",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Singletasking",
+              "id": 25
+            },
+            "2": {
+              "title": "Get things done ASAP - dont stack",
+              "id": 26
+            }
+          }
+        },
+        "4": {
+          "title": "3. Replenish",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "IDLE != REST",
+              "id": 27
+            },
+            "2": {
+              "title": "Disconnect",
+              "id": 28
+            },
+            "3": {
+              "title": "Take your downtime",
+              "id": 29
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
