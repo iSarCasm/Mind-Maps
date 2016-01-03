@@ -1,0 +1,33 @@
+{
+  "title": "Ruby Conf 2014 - Your Bright Metaprogramming Future: Mistakes You'll Make",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "#send",
+      "id": 2
+    },
+    "11": {
+      "title": "#const_get",
+      "id": 3
+    },
+    "21": {
+      "title": "#method_missing",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "call #super",
+          "id": 7
+        },
+        "2": {
+          "title": "#respond_to_missiing?",
+          "id": 8
+        },
+        "3": {
+          "title": "define new methods",
+          "id": 9
+        }
+      }
+    }
+  }
+}
