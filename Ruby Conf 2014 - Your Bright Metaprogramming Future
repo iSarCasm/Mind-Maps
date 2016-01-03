@@ -4,30 +4,55 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "#send",
-      "id": 2
-    },
-    "11": {
-      "title": "#const_get",
-      "id": 3
-    },
-    "21": {
-      "title": "#method_missing",
-      "id": 4,
+      "title": "Content",
+      "id": 12,
       "ideas": {
         "1": {
-          "title": "call #super",
-          "id": 7
+          "title": "#send",
+          "id": 13,
+          "attr": {
+            "style": {}
+          }
         },
         "2": {
-          "title": "#respond_to_missiing?",
-          "id": 8
+          "title": "#const_get",
+          "id": 14,
+          "attr": {
+            "style": {}
+          }
         },
         "3": {
-          "title": "define new methods",
-          "id": 9
+          "title": "#method_missing",
+          "ideas": {
+            "1": {
+              "title": "call #super",
+              "id": 16
+            },
+            "2": {
+              "title": "#respond_to_missiing?",
+              "id": 17
+            },
+            "3": {
+              "title": "define new methods",
+              "id": 18
+            }
+          },
+          "id": 15,
+          "attr": {
+            "style": {}
+          }
         }
       }
+    },
+    "11": {
+      "title": "by Betsy Haibel",
+      "id": 19
+    },
+    "21": {
+      "title": "URL https://www.youtube.com/watch?v=7rN6ehNrtfc",
+      "id": 20,
+      "ideas": {}
     }
-  }
+  },
+  "links": []
 }
