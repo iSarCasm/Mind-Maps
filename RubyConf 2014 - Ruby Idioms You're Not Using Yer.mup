@@ -1,0 +1,72 @@
+{
+  "title": "RubyConf 2014 - Ruby Idioms You're Not Using Yer",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "By Craig Buchek",
+      "id": 2
+    },
+    "6": {
+      "title": "URL https://www.youtube.com/watch?v=hc_wtllfKtQ",
+      "id": 5
+    },
+    "11": {
+      "title": "Content",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Memoization",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Memo: ||=",
+              "id": 9
+            },
+            "2": {
+              "title": "Reload: =nil",
+              "id": 10
+            }
+          }
+        },
+        "2": {
+          "title": "Fetch with Default Block",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "RV = ENV[\"RUBY_VERSION\"]  || \"2.1.4\"",
+              "id": 13
+            },
+            "2": {
+              "title": "RV = ENV.fetch(\"RUBY_VERSION\") { \"2.1.4\" }",
+              "id": 14
+            }
+          }
+        },
+        "3": {
+          "title": "Test Spies",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "Arrange Act Assert",
+              "id": 18
+            },
+            "2": {
+              "title": "Setup Execrcise Verify Teardown",
+              "id": 19
+            },
+            "3": {
+              "title": "Given When Then",
+              "id": 20
+            }
+          }
+        },
+        "4": {
+          "title": "Blue-Green Deployment",
+          "id": 21
+        }
+      }
+    }
+  },
+  "links": []
+}
