@@ -1,0 +1,112 @@
+{
+  "title": "Solar Panel",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Sun",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "x10_000 times more than we use",
+          "id": 4
+        }
+      }
+    },
+    "-1": {
+      "title": "Conversion",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Solar Panels",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Solar Cells",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Silicon",
+                  "id": 13,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "PN diode",
+                      "id": 16,
+                      "ideas": {
+                        "1": {
+                          "title": "Reverse of LED",
+                          "id": 17
+                        },
+                        "2": {
+                          "title": "Photon knocks electron out to the circuit",
+                          "id": 18
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Crystal",
+                  "ideas": {},
+                  "id": 14,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "12 = iphone charge",
+                  "id": 19
+                },
+                "4": {
+                  "title": "0.5V",
+                  "id": 21
+                },
+                "5": {
+                  "title": "Cant worn out",
+                  "id": 23
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Problems",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Not equal distribution",
+              "id": 29,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Efficiency",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "Top: 46%",
+                  "id": 32
+                },
+                "2": {
+                  "title": "Most: 15-20%",
+                  "id": 33
+                }
+              }
+            },
+            "0.5": {
+              "title": "Nights/Clouds",
+              "id": 35
+            }
+          }
+        }
+      }
+    },
+    "0.5": {
+      "title": "URL https://www.youtube.com/watch?v=xKxrkht7CpY",
+      "id": 36
+    }
+  },
+  "links": []
+}
