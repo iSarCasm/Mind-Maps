@@ -1,0 +1,51 @@
+{
+  "title": "Environment Variables",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "URL https://www.youtube.com/watch?v=O-aDLsuNTRY&list=PLm8ctt9NhMNWh7KBtkeJbyVP8vgSkKWqz&index=1",
+      "id": 2
+    },
+    "6": {
+      "title": "echo $PATH",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "executebles",
+          "id": 5
+        }
+      }
+    },
+    "11": {
+      "title": "ENV[\"PASSWORD\"]",
+      "id": 3
+    },
+    "21": {
+      "title": "PASSWORD=password ..",
+      "id": 6
+    },
+    "31": {
+      "title": "~/.bashrc",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "~/.zshrc",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "~/.bash_profile",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "...",
+                  "id": 10
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
