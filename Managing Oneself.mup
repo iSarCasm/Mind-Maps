@@ -1,0 +1,56 @@
+{
+  "title": "Managing Oneself",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "What Are My Strengths?",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Feedback",
+          "id": 3,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Tests",
+          "id": 5
+        }
+      }
+    },
+    "11": {
+      "title": "How Do I Perform?",
+      "id": 6
+    },
+    "21": {
+      "title": "Am I Reader Or Listener?",
+      "id": 7
+    },
+    "31": {
+      "title": "How Do I Learn?",
+      "id": 8
+    },
+    "41": {
+      "title": "What Are My Values?",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Not question of ethics",
+          "id": 11
+        }
+      }
+    },
+    "51": {
+      "title": "Where Do I Belong?",
+      "id": 13
+    },
+    "61": {
+      "title": "Responsibility for Relationships",
+      "id": 14
+    },
+    "71": {
+      "title": "The Second Half Of Your Life",
+      "id": 15
+    }
+  }
+}
